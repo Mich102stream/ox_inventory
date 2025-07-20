@@ -42,6 +42,7 @@ const WeightBar: React.FC<{ percent: number; durability?: boolean }> = ({ percen
           width: `${percent}%`,
           backgroundColor: color,
           transition: `background ${0.3}s ease, width ${0.3}s ease`,
+          borderRadius: 3,
         }}
       ></div>
     </div>

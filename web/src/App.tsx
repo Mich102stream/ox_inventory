@@ -27,7 +27,7 @@ debugData([
           {
             slot: 1,
             name: 'iron',
-            weight: 3000,
+            weight: 500,
             metadata: {
               description: `name: Svetozar Miletic  \n Gender: Male`,
               ammo: 3,
