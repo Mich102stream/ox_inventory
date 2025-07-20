@@ -1,3 +1,21 @@
+# ox_inventory - UI Redesign
+
+Discord: https://discord.com/invite/YUBpUeSGMV
+
+Este repositorio contiene una **modificación visual** (Redesign) del recurso [ox_inventory](https://github.com/communityox/ox_inventory), desarrollada con el objetivo de mejorar la apariencia y experiencia de usuario del inventario en FiveM.
+
+🔧 **Importante:**  
+Esta versión **no modifica la funcionalidad interna ni la lógica del inventario original**, únicamente cambia el diseño de la interfaz (HTML, CSS, JS).
+
+📁 **Basado en:**  
+Fork de [communityox/ox_inventory](https://github.com/communityox/ox_inventory), que continúa el desarrollo del proyecto original archivado.  
+El recurso permanece bajo la licencia [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).  
+Todos los créditos corresponden a sus respectivos autores.
+
+<img width="1920" height="1080" alt="Desktop Screenshot 2025 07 20 - 07 15 04 77" src="https://github.com/user-attachments/assets/a6a882cf-62a7-4d6d-a603-b7dcc70dd7ca" />
+
+<img width="1920" height="1080" alt="Desktop Screenshot 2025 07 20 - 07 15 27 19" src="https://github.com/user-attachments/assets/010b0eaf-99b1-4671-8d73-a861e05c92aa" />
+
 # ox_inventory
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
