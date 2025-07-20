@@ -5,7 +5,7 @@ Discord: https://discord.com/invite/YUBpUeSGMV
 Este repositorio contiene una **modificación visual** (Redesign) del recurso [ox_inventory](https://github.com/communityox/ox_inventory), desarrollada con el objetivo de mejorar la apariencia y experiencia de usuario del inventario en FiveM.
 
 🔧 **Importante:**  
-Esta versión **no modifica la funcionalidad interna ni la lógica del inventario original**, únicamente cambia el diseño de la interfaz (HTML, CSS, JS).
+Esta versión **no modifica la funcionalidad interna ni la lógica del inventario original**, únicamente cambia el diseño de la interfaz.
 
 📁 **Basado en:**  
 Fork de [communityox/ox_inventory](https://github.com/communityox/ox_inventory), que continúa el desarrollo del proyecto original archivado.  
